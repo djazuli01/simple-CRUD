@@ -32,7 +32,7 @@
                 clear: both;
                 color: #ffffff;
                 background-color: #aeaca8;
-                margin-top: 30px;
+                margin-top: 0px;
                 height: 30px;}
             nav ul {
                 margin: 0px;
