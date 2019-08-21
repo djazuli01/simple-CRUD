@@ -1,5 +1,5 @@
 <?php
-//server = localhost, username = root, password = 123456, database = mercu_buana
-$koneksi = new mysqli("localhost", "root", "123456", "my_university");
+//server = localhost, username = root, password =, database = mvc
+$koneksi = new mysqli("localhost", "root", "", "mvc");
 
 ?>
